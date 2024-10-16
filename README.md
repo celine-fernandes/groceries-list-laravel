@@ -30,15 +30,15 @@ Ce projet est une application Laravel simple qui permet de gérer des produits e
 
 1. Clonez ce dépôt :
     git clone https://github.com/celine-fernandes/groceries-list-laravel.git
-    ```
+
 
 2. Installez les dépendances avec Composer :
     composer install
-    ```
+
 
 3. Créez un fichier `.env` en copiant le fichier `.env.example` :
     cp .env.example .env
-    ```
+
 
 
 5. Configurez votre base de données dans le fichier `.env` :
