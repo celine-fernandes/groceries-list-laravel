@@ -1,6 +1,6 @@
 # Gestion des Produits et Catégories - Laravel
 
-Ce projet est une application Laravel simple permettant de gérer des produits et des catégories. Il inclut des fonctionnalités CRUD (Créer, Lire, Mettre à jour et Supprimer) pour les produits et les catégories, ainsi qu'un tableau de bord qui affiche des statistiques sur les produits et les revenus.
+Ce projet est une application Laravel simple qui permet de gérer des produits et des catégories. Il inclut des fonctionnalités CRUD (Créer, Lire, Mettre à jour et Supprimer) pour les produits et les catégories, ainsi qu'un tableau de bord qui affiche des statistiques sur les produits et les revenus.
 
 ## Fonctionnalités
 
